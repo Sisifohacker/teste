@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Perfil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Olá, eu sou Lucas!</h1>
+    <h2>Estudante de Sistemas de Informação</h2>
+    <p>Estou começando meus estudos em desenvolvimento web.</p>
+    
+    <h3>Coisas que eu gosto</h3>
+    <ul>
+        <li>Tecnologia</li>
+        <li>Games</li>
+        <li>Programação</li>
+    </ul>
+
+    <a href="https://github.com" target="_blank">Meu GitHub</a>
+</body>
+</html>
